@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<!--  
+  <test name="firsttestngprog">
+  	<classes>
+  		<class name = "testngdemo.firsttestngprog"></class>
+  	</classes>
+  </test> 
+  
+   <test name="secondtestngprog">
+  	<classes>
+  		<class name = "testngdemo.secondtestngprog"></class>
+  	</classes>
+  </test> 
+--> 
+  
+  <test name="databaseTest">
+  <classes>
+  	<class name="testngdemo.databaseTest"></class>
+  </classes>
+  </test>
+</suite> <!-- Suite -->
